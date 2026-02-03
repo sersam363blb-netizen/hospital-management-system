@@ -29,6 +29,7 @@ This project is a comprehensive hospital automation system consisting of **3 dif
 ## System Structure
 - 1 Database
 - 6 SQL Tables
+- - 15 Windows Forms pages
 - Role-based login system
 - Authorization-based page access
 
