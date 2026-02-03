@@ -47,12 +47,15 @@ This project is a comprehensive hospital automation system consisting of **3 dif
 
 ## Notes
 This project was developed for educational and portfolio purposes and focuses on role-based system design and database integration.
-<img width="634" height="453" alt="First_Entrance" src="https://github.com/user-attachments/assets/d59ef985-f772-4dba-bbd9-317f5003c9fe" />
-<img width="1920" height="1080" alt="Patient_Entrance" src="https://github.com/user-attachments/assets/0e964f85-454f-499d-958d-20ebadaae997" />
-<img width="1920" height="1080" alt="Patient_Main" src="https://github.com/user-attachments/assets/0e14532e-e20a-4aa1-8de3-219ba1928a33" />
-<img width="1920" height="1080" alt="Secretary entrance" src="https://github.com/user-attachments/assets/dca95d12-bf26-491d-9f3f-05da3a0e40a6" />
-<img width="1920" height="1080" alt="Secretary_Main" src="https://github.com/user-attachments/assets/6646770b-e37e-4dda-9f96-536e94569ebf" />
-<img width="1920" height="1080" alt="Doctor_Entrance" src="https://github.com/user-attachments/assets/242fc26e-b9f3-471b-9c7b-f4e203af6497" />
-<img width="1920" height="1080" alt="Doctor_Main" src="https://github.com/user-attachments/assets/66f4c219-de68-441a-9cdd-f399f090b214" />
+<img width="634" height="453" alt="First_Entrance" src="https://github.com/user-attachments/assets/0cb73507-d1c6-4f8a-8353-36c8b7ba6c68" />
+<img width="528" height="350" alt="Secretary entrance" src="https://github.com/user-attachments/assets/3c2f7304-91ba-41bb-9c41-e2a7cabcf8ff" />
+<img width="1453" height="558" alt="Secretary_Main" src="https://github.com/user-attachments/assets/2a8bbde1-8f2d-4ac1-8fe9-35d291f6e222" />
+<img width="552" height="371" alt="Patient_Entrance" src="https://github.com/user-attachments/assets/9a86f86a-5f52-4929-9d50-a7e269d96c62" />
+<img width="786" height="582" alt="Patient_Main" src="https://github.com/user-attachments/assets/0fe41718-0d94-4276-84d4-081b7f501dd6" />
+<img width="508" height="361" alt="Doctor_Entrance" src="https://github.com/user-attachments/assets/524d58af-64e9-46cf-95da-0e3a08cf88a9" />
+<img width="785" height="540" alt="Doctor_Main" src="https://github.com/user-attachments/assets/8958b5a2-f012-468d-98e5-37ff45fd10f4" />
+
+
+
 
 
